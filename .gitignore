@@ -1,2 +1,4 @@
-plugins/ platforms/
+plugins 
+platforms/
 merges/
+plugins
